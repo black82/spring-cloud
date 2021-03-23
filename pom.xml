@@ -17,6 +17,7 @@
         <module>discovery</module>
         <module>config</module>
         <module>gateway</module>
+        <module>book-service</module>
 
     </modules>
 
